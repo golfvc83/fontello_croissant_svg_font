@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="croissant_new" unicode="&#xe800;" d="M1478-33c-7-31-20-55-39-73l4-2c67-39 158-53 228-33 28 8 65 24 84 59 54 116 5 265-121 362-18 14-34 26-49 37z m-1151 8c1 0 1 0 1-1 7-33 22-56 45-69 41-23 111-19 208 13l10 3c14 5 28 9 40 13-6 13-11 27-14 43a14 14 0 0 0 0 2l-73 681c-14-1-29-2-44-4-130-15-244-89-289-155-14-19-28-48-21-76z m319 8c25-111 105-111 216-110l10 0 56 0c102-1 170-1 207 111l73 685c2 40-11 76-40 107-44 46-119 74-198 74h-159c-79 0-154-28-198-74-29-31-42-67-40-108z m-540-124c70-20 161-6 227 33l4 2c-19 18-32 42-39 73l-106 350c-15-11-31-23-49-37-126-97-176-246-121-362 19-35 56-51 84-59z m1058 117c-5-16-11-30-17-42 12-4 25-8 39-13l10-3c97-32 166-36 207-13 24 13 39 36 46 69 0 1 0 1 0 1l138 451c7 27-8 56-21 75-45 66-159 140-289 155q-21 2-40 4l-73-681a15 15 0 0 0 0-3z" horiz-adv-x="1777" />
+</font>
+</defs>
+</svg>
